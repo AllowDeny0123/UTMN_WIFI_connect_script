@@ -12,7 +12,7 @@ Working state checked on:
 - Archlinux (and Arch-based disrtos)
 
 ## How to use
-- Edit WPA example file and fill logpass
+- Edit WPA example file and fill uni domain logpass
 - Run .sh with root permissions
 
 Don't forget to Ctrl+C it when you done with wifi and ready to leave
